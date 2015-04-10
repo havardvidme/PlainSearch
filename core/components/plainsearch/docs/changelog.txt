@@ -1,0 +1,5 @@
+Changelog for PlainSearch.
+
+PlainSearch 1.0.0
+====================================
+- First commit
